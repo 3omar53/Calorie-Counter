@@ -21,7 +21,7 @@ This GitHub repository contains a simple Calorie Counter web application that al
 ## How to Use
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/calorie-counter.git
+   git clone https://github.com/3omar53/Calorie-Counter.git
    ```
 
 2. Open the `index.html` file in a web browser.
